@@ -110,10 +110,11 @@ I'm passionate about solving real-world problems with data, writing clean and re
 
 | Certification | Issuer | Type |
 |---|---|---|
-| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services | Cloud / AI |
-| Master Data Science & Machine Learning — Comprehensive Program | Udemy | Data Science |
-| AI & Machine Learning Internship Certification | Internship Provider | Applied ML |
-| Certified Cybersecurity Educator Professional | Cybersecurity Authority | Security |
+| [AWS Academy Graduate — Generative AI Foundations](https://drive.google.com/file/d/1u8CsYpM4XDQWUV8hdGhId73qPW6wGi6Q/view?usp=drive_link) | Amazon Web Services | Cloud / AI |
+| [AWS Academy Graduate — Machine Learning Foundations](https://drive.google.com/file/d/19Q6ao90iImasp7vbA2V1G0q2YdO0tIOP/view?usp=drive_link) | Amazon Web Services | Cloud / AI |
+| [AI & Machine Learning Internship Certification](https://drive.google.com/file/d/1yh2POOIznawsUaEoP4FFN619MoUHdZez/view?usp=drive_link) | Maincrafts | Applied ML |
+| [Master Data Science & Machine Learning — Comprehensive Program](https://drive.google.com/file/d/1AYiRxVUeJjw0ATfWkocvjap5N8gcjd2E/view?usp=drive_link) | Udemy | Data Science |
+| [Certified Cybersecurity Educator Professional](https://drive.google.com/file/d/1gMnW9NSPCPpD3iFi1n9TVOQjMcA5obRs/view?usp=drive_link) | Cybersecurity Authority | Security |
 
 ---
 
