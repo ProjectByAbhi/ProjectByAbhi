@@ -46,7 +46,7 @@ I'm passionate about solving real-world problems with data, writing clean and re
 
 ## Featured Projects
 
-### 🏏 [IPL Score Predictor](https://github.com/ProjectByAbhi/IPL-Score-Predictor)
+### 🏏 [IPL Score Predictor](https://github.com/ProjectByAbhi/IPL-Score-Predictor) · [🚀 Live Demo](https://ipl-score-predictor-projectbyabhi.streamlit.app)
 > Random Forest Regressor trained on ball-by-ball IPL data (2008–2017), deployed as a Streamlit web app.
 
 - **R² Score:** 93.1% | **MAE:** ±4.52 runs
