@@ -90,13 +90,9 @@ I'm passionate about solving real-world problems with data, writing clean and re
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProjectByAbhi&theme=default" alt="Repos Per Language" height="180">
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProjectByAbhi&theme=default" alt="Most Commit Language" height="180">
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProjectByAbhi&theme=default" alt="Stats" height="180">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ProjectByAbhi&hide_border=true&theme=default" alt="GitHub Streak">
-</p>
+
 
 ---
 
