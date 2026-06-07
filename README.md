@@ -83,21 +83,31 @@ I'm passionate about solving real-world problems with data, writing clean and re
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProjectByAbhi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Abhishek's GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectByAbhi&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProjectByAbhi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Abhishek's GitHub Stats" height="165">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectByAbhi&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectByAbhi&hide_border=true&theme=default" alt="GitHub Streak" height="150">
 </p>
 
 ---
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services |
-| Master Data Science & Machine Learning — Comprehensive Program | Udemy / NPTEL |
-| AI & Machine Learning Internship Certification | — |
-| Certified Cybersecurity Educator Professional | — |
-| Internship Common Aptitude Test (ICAT) Qualified | — |
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Generative%20AI%20Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-Educator%20Professional-1572B6?style=flat-square&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Internship%20Certified-00C853?style=flat-square&logo=googlecolab&logoColor=white">
+</p>
+
+| Certification | Issuer | Type |
+|---|---|---|
+| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services | Cloud / AI |
+| Master Data Science & Machine Learning — Comprehensive Program | Udemy | Data Science |
+| AI & Machine Learning Internship Certification | Internship Provider | Applied ML |
+| Certified Cybersecurity Educator Professional | Cybersecurity Authority | Security |
 
 ---
 
