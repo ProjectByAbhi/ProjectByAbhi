@@ -83,9 +83,15 @@ I'm passionate about solving real-world problems with data, writing clean and re
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProjectByAbhi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Abhishek's GitHub Stats" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjectByAbhi&theme=default" alt="Abhishek's GitHub Stats" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProjectByAbhi&theme=default" alt="Repos Per Language" height="180">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectByAbhi&layout=compact&hide_border=true&theme=default&langs_count=6&cache_seconds=1800" alt="Top Languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProjectByAbhi&theme=default" alt="Most Commit Language" height="180">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProjectByAbhi&theme=default" alt="Stats" height="180">
 </p>
 
 <p align="center">
