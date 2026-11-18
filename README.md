@@ -132,6 +132,7 @@ A web-based employee analytics application focused on burnout detection, product
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -140,10 +141,9 @@ A web-based employee analytics application focused on burnout detection, product
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProjectByAbhi&theme=tokyonight" width="49%" alt="Top Languages by Repository">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProjectByAbhi&theme=tokyonight" width="49%" alt="Top Languages by Commit">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProjectByAbhi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics">
 </p>
 
----
 
 ## 🎓 Certifications
 
