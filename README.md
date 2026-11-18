@@ -1,46 +1,46 @@
 
 <h1 align="center">Abhishek Rai</h1>
 
-<p align="center">
-  <strong>MCA Student | Artificial Intelligence & Machine Learning | Python Developer</strong>
-</p>
+<h3 align="center">
+  MCA Student | Artificial Intelligence & Machine Learning
+</h3>
 
 <p align="center">
-  Building practical AI/ML solutions through Machine Learning, Deep Learning, and Computer Vision.
+  Building practical solutions with Python, Machine Learning, Deep Learning and Computer Vision.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekrai-ai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ProjectByAbhi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:abhishekrai38491cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am currently pursuing an **MCA with a specialization in Artificial Intelligence and Machine Learning** at Galgotias University.
+I am pursuing an **MCA specializing in Artificial Intelligence and Machine Learning at Galgotias University**.
 
-I enjoy building practical software and machine learning projects, working with data, and exploring how AI can solve real-world problems.
+I enjoy developing practical applications, exploring machine learning algorithms, and applying AI technologies to real-world problems.
 
-My interests include Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
+My primary interests include Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
 
-- 🎓 Pursuing MCA in Artificial Intelligence & Machine Learning
-- 💻 Interested in Python, Machine Learning, and Deep Learning
-- 🔭 Exploring Computer Vision, NLP, and AI applications
-- 🏏 Developed an IPL Score Predictor using Random Forest
-- 😊 Built a Real-Time Human Emotion Detection System
-- 📫 Contact: **abhishekrai38491cs@gmail.com**
+- 🎓 MCA — Artificial Intelligence & Machine Learning
+- 💻 Interested in Python, Machine Learning and Deep Learning
+- 🔭 Currently exploring Computer Vision, NLP and AI applications
+- 🏏 Developed an IPL Score Prediction application using Random Forest
+- 😊 Developed a Real-Time Human Emotion Detection System using CNN
+- 📫 Email: **abhishekrai38491cs@gmail.com**
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Programming Languages**
 
@@ -51,11 +51,11 @@ My interests include Machine Learning, Deep Learning, Natural Language Processin
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
-**AI / Machine Learning**
+**AI & Machine Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square">
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square">
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
@@ -75,17 +75,17 @@ My interests include Machine Learning, Deep Learning, Natural Language Processin
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🏏 IPL Score Predictor
 
-[GitHub Repository](https://github.com/ProjectByAbhi/IPL-Score-Predictor) · [Live Demo](https://ipl-score-predictor-projectbyabhi.streamlit.app)
+[GitHub Repository](https://github.com/ProjectByAbhi/IPL-Score-Predictor) | [Live Demo](https://ipl-score-predictor-projectbyabhi.streamlit.app)
 
 A machine learning application that predicts IPL first-innings scores using a Random Forest Regressor.
 
 - Uses historical IPL ball-by-ball data.
-- Includes team selection, current score, wickets, and overs.
-- Built an interactive prediction interface.
+- Predicts scores using teams, current runs, wickets and overs.
+- Interactive prediction interface built with Streamlit.
 - **Reported R² Score:** 93.1%
 - **Technologies:** Python, Scikit-learn, Pandas, Streamlit.
 
@@ -95,25 +95,25 @@ A machine learning application that predicts IPL first-innings scores using a Ra
 
 [GitHub Repository](https://github.com/ProjectByAbhi/Real-Time-Human-Emotion-Detection-System)
 
-A real-time facial emotion recognition application that uses a CNN model and computer vision to identify emotions through a webcam.
+A real-time facial emotion recognition application that uses a CNN model and computer vision to recognize emotions through a webcam.
 
-- Detects faces using OpenCV Haar Cascade.
-- Classifies seven facial emotions.
-- Displays emotion confidence and probability scores.
-- Includes an interactive Flask web dashboard.
-- Supports camera start, stop, and restart functionality.
-- **Technologies:** Python, TensorFlow, Keras, CNN, OpenCV, Flask, JavaScript.
+- Face detection using OpenCV Haar Cascade.
+- CNN-based classification of seven emotions.
+- Displays detected emotion, confidence and probability scores.
+- Flask-based interactive web dashboard.
+- Camera start, stop and restart functionality.
+- **Technologies:** Python, TensorFlow, Keras, CNN, OpenCV, Flask, HTML, CSS, JavaScript.
 
-**Emotions:** Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise.
+**Emotions:** Angry, Disgust, Fear, Happy, Neutral, Sad and Surprise.
 
 ---
 
 ### 🏠 House Price Prediction
 
-A machine learning regression project focused on predicting house prices using housing dataset features.
+A machine learning regression project using the California Housing dataset.
 
-- Data preprocessing and exploratory analysis.
-- Linear Regression model implementation.
+- Data preprocessing and exploratory data analysis.
+- Linear Regression implementation.
 - Model evaluation and performance analysis.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 
@@ -123,52 +123,44 @@ A machine learning regression project focused on predicting house prices using h
 
 [GitHub Repository](https://github.com/ProjectByAbhi/Employee_Burnout_System)
 
-An employee analytics application focused on burnout detection, productivity monitoring, and employee management.
+A web-based employee analytics application focused on burnout detection, productivity monitoring and employee management.
 
 - Employee data management.
 - Burnout-related analytics.
-- Web-based application interface.
-- **Technologies:** JavaScript, Python, Node.js, Express, MongoDB.
+- Interactive web application.
+- **Technologies:** JavaScript, Node.js, Express, MongoDB, Vite.
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjectByAbhi&theme=github" width="100%" alt="GitHub Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjectByAbhi&theme=tokyonight" width="100%" alt="GitHub Contribution Summary">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProjectByAbhi&theme=github" height="170" alt="Repository Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProjectByAbhi&theme=github" height="170" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProjectByAbhi&theme=tokyonight" width="49%" alt="Top Languages by Repository">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProjectByAbhi&theme=tokyonight" width="49%" alt="Top Languages by Commit">
 </p>
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
-| Certification | Issuer | Area |
-|---|---|---|
-| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services | Generative AI |
-| AWS Academy Graduate — Machine Learning Foundations | Amazon Web Services | Machine Learning |
-| AI & Machine Learning Internship Certification | Maincrafts | Applied ML |
-| Master Data Science & Machine Learning — Comprehensive Program | Udemy | Data Science |
-| Certified Cybersecurity Educator Professional | Cybersecurity Authority | Cybersecurity |
-
-### Certificate Links
-
-- [AWS Generative AI Foundations](https://drive.google.com/file/d/1u8CsYpM4XDQWUV8hdGhId73qPW6wGi6Q/view?usp=drive_link)
-- [AWS Machine Learning Foundations](https://drive.google.com/file/d/19Q6ao90iImasp7vbA2V1G0q2YdO0tIOP/view?usp=drive_link)
-- [AI & Machine Learning Internship](https://drive.google.com/file/d/1yh2POOIznawsUaEoP4FFN619MoUHdZez/view?usp=drive_link)
-- [Master Data Science & Machine Learning](https://drive.google.com/file/d/1AYiRxVUeJjw0ATfWkocvjap5N8gcjd2E/view?usp=drive_link)
-- [Cybersecurity Educator Professional](https://drive.google.com/file/d/1gMnW9NSPCPpD3iFi1n9TVOQjMcA5obRs/view?usp=drive_link)
+| Certification | Issuer |
+|---|---|
+| [Generative AI Foundations](https://drive.google.com/file/d/1u8CsYpM4XDQWUV8hdGhId73qPW6wGi6Q/view?usp=drive_link) | Amazon Web Services |
+| [Machine Learning Foundations](https://drive.google.com/file/d/19Q6ao90iImasp7vbA2V1G0q2YdO0tIOP/view?usp=drive_link) | Amazon Web Services |
+| [AI & Machine Learning Internship](https://drive.google.com/file/d/1yh2POOIznawsUaEoP4FFN619MoUHdZez/view?usp=drive_link) | Maincrafts |
+| [Master Data Science & Machine Learning](https://drive.google.com/file/d/1AYiRxVUeJjw0ATfWkocvjap5N8gcjd2E/view?usp=drive_link) | Udemy |
+| [Cybersecurity Educator Professional](https://drive.google.com/file/d/1gMnW9NSPCPpD3iFi1n9TVOQjMcA5obRs/view?usp=drive_link) | Cybersecurity Authority |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProjectByAbhi&style=flat-square&color=blue" alt="Profile Views">
+  <strong>Learning • Building • Improving</strong>
 </p>
 
 <p align="center">
-  <strong>Learning, Building, and Improving Every Day.</strong>
+  Thank you for visiting my profile!
 </p>
