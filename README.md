@@ -93,7 +93,7 @@ A machine learning application that predicts IPL first-innings scores using a Ra
 
 ### 😊 Real-Time Human Emotion Detection System
 
-[GitHub Repository](https://github.com/ProjectByAbhi/Real-Time-Human-Emotion-Detection-System)
+[GitHub Repository](https://github.com/ProjectByAbhi/Real-Time-Human-Emotion-Detection-System) | [Live Demo](https://real-time-human-emotion-detection-system-sumdwycybq5onyrcv7d2i.streamlit.app/)
 
 A real-time facial emotion recognition application that uses a CNN model and computer vision to recognize emotions through a webcam.
 
